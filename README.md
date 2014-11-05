@@ -1,2 +1,2 @@
-aaki-framwork
+aaki-framework
 =============
